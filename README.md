@@ -15,7 +15,7 @@ Ushbu loyiha **Redux Toolkit** va **createAsyncThunk** yordamida asinxron ma'lum
 - `src/featureSlice.js` — Foydalanuvchilar uchun async thunk va Redux slice (loading, data, error holatlari).
 - `src/store.js` — Redux configureStore sozlamasi.
 - `src/App.jsx` — Asosiy komponent: loading, xatolikni qayta urinish va foydalanuvchilar kartalari.
-- `vite.config.js` — DummyJSON API uchun server proksi konfiguratsiyasi.
+- Qidiruv: ism, familiya, username yoki shahar bo'yicha.
 
 ## 💻 Ishga tushirish
 
